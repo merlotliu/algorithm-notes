@@ -8,8 +8,6 @@ categories: [算法&数据结构]
 comments: true
 ---
 
-# KMP
-
 kmp 算法是匹配一个字符串 str 包含的字串 substr 的开始索引的算法（成功返回开始索引，失败返回 -1），时间复杂度为 O(N)，N为str的长度。
 
 ## 代码
