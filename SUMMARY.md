@@ -12,6 +12,11 @@
 * [贪心](algorithm/greedy.md)
 * [回溯](algorithm/backtracking.md)
 * [动态规划](algorithm/dynamic-programming.md)
-* [kmp](algorithm/kmp.md)
-* [manacher](algorithm/manacher.md)
+
+-----
+* [KMP](algorithm/kmp.md)
+* [Manacher](algorithm/manacher.md)
+
+-----
+* [滑动窗口](algorithm/sliding-window.md)
 
