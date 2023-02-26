@@ -19,4 +19,5 @@
 
 -----
 * [滑动窗口](algorithm/sliding-window.md)
+* [优先级队列](algorithm/priority_queue.md)
 
