@@ -36,9 +36,7 @@
     * [8.2 数组中位数](algorithm/priority-queue/002-median-of-array.md)
     * [8.3 Dijkstra算法优化](algorithm/priority-queue/003-dijkstra-pro.md)
 * [9 单调栈](algorithm/monotonic-stack/README.md)
-    * [Page 6](algorithm/monotonic-stack/page-6.md)
 * [10 Morris 遍历](algorithm/morris/README.md)
-    * [Page 7](algorithm/morris/page-7.md)
 
 ## 计算机基础
 * 1 异或运算
