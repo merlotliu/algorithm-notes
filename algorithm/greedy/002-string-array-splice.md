@@ -44,7 +44,7 @@ std::string getMinJointString(std::vector<std::string> &strs) {
 }
 ```
 
-#### 证明
+## 证明
 
 先证明传递性，再证明不按照这一方式拼接一定比这一方式字典序大。
 
