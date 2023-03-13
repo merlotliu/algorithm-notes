@@ -20,6 +20,7 @@
 * [8 优先级队列](algorithm/priority-queue/README.md)
     * [8.1 TopK](algorithm/priority-queue/001-top-k.md)
     * [8.2 数组中位数](algorithm/priority-queue/002-median-of-array.md)
+    * [8.3 Dijkstra算法优化](algorithm/priority-queue/003-dijkstra-pro.md)
 * [9 单调栈](algorithm/monotonic-stack/README.md)
 * [10 Morris 遍历](algorithm/morris/README.md)
 
