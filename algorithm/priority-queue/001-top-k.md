@@ -1,7 +1,14 @@
+---
+layout: post
+title: TopK
+date: 2022-12-13 22:49:55
+updated: 2023-02-27 22:49:55
+tags: [优先级队列, 大根堆, 小根堆]
+categories: [算法&数据结构]
+comments: true
+---
 
-## 经典题型
-
-### 1 TopK
+## TopK
 
 [347. 前 K 个高频元素](https://leetcode.cn/problems/top-k-frequent-elements/description/)
 
@@ -9,6 +16,8 @@
 2. 构建一个长度为 k 的小根堆，由于存放的是 pair 类型，所以还需要重写比较器；
 3. 将统计的频数加入到小根堆，小根堆大小超过 k，则弹出堆顶元素；
 4. 将小根堆的元素放入结果集并返回;
+
+## 代码
 
 ```c++
 class Solution {
@@ -38,10 +47,3 @@ public:
 };
 ```
 
-
-
-
-
-### 3 Dijkstra算法优化
-
-改写堆以优化Dijkstra算法算法。

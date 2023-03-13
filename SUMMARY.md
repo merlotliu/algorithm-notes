@@ -18,6 +18,8 @@
 * [6 Manacher](algorithm/manacher/README.md)
 * [7 滑动窗口](algorithm/sliding-window.md)
 * [8 优先级队列](algorithm/priority-queue/README.md)
+    * [8.1 TopK](algorithm/priority-queue/001-top-k.md)
+    * [8.2 数组中位数](algorithm/priority-queue/002-median-of-array.md)
 * [9 单调栈](algorithm/monotonic-stack/README.md)
 * [10 Morris 遍历](algorithm/morris/README.md)
 
