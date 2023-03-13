@@ -2,7 +2,7 @@
 
 * [简介](README.md)
 
-## 数据结构
+## 数据结构 <a href="#data-structure" id="data-structure"></a>
 
 * [1 链表](data-structure/list.md)
 * [2 二叉树](data-structure/binary-tree.md)
