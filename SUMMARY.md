@@ -25,7 +25,6 @@
 * [6 Manacher](algorithm/manacher/README.md)
   * [Page 4](algorithm/manacher/page-4.md)
 * [7 滑动窗口](algorithm/sliding-window/README.md)
-  * [Page 5](algorithm/sliding-window/page-5.md)
 * [8 优先级队列](algorithm/priority-queue/README.md)
   * [8.1 TopK](algorithm/priority-queue/001-top-k.md)
   * [8.2 数组中位数](algorithm/priority-queue/002-median-of-array.md)
@@ -34,3 +33,6 @@
   * [Page 6](algorithm/monotonic-stack/page-6.md)
 * [10 Morris 遍历](algorithm/morris/README.md)
   * [Page 7](algorithm/morris/page-7.md)
+
+## 计算机基础
+* [1 异或运算]()
