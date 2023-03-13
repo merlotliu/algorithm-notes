@@ -7,7 +7,7 @@
 * [2 二叉树](data-structure/binary-tree.md)
 * [3 图](data-structure/graph.md)
 
-## 算法
+## [算法](algorithm/)
 * [1 排序算法](algorithm/sort/README.md)
 * [2 贪心算法](algorithm/greedy/README.md)
     * [2.1 会议安排](algorithm/greedy/001-meeting-arrangement.md)
