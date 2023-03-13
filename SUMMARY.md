@@ -2,7 +2,7 @@
 
 * [简介](README.md)
 
-## 数据结构
+## 数据结构 <a href="#data-structure" id="data-structure"></a>
 * [1 链表](data-structure/list/)
     * [1.0 链表](data-structure/list/README.md)
     * [1.1 反转链表](data-structure/list/001-reverse-list.md)
@@ -14,7 +14,7 @@
 * [2 二叉树](data-structure/binary-tree.md)
 * [3 图](data-structure/graph.md)
 
-## 算法
+## 算法 <a href="#algorithm" id="algorithm"></a>
 * [1 排序算法](algorithm/sort/)
     * [1.0 排序算法](algorithm/sort/README.md)
     * [1.1 选择排序](algorithm/sort/001-selection-sort.md)
@@ -38,6 +38,8 @@
 * [9 单调栈](algorithm/monotonic-stack/README.md)
 * [10 Morris 遍历](algorithm/morris/README.md)
 
-## 计算机基础
-* 1 异或运算
+## 计算机基础 <a href="#computer-science" id="computer-science"></a>
+* [1 异或运算](computer-science/001-xor.md)
 
+## 杂记 <a href="#misc" id="misc"></a>
+* [1 生成随机数组](misc/001-generate-random-array.md)
