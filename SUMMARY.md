@@ -12,7 +12,7 @@
 
 * [1 排序算法](algorithm/sort/README.md)
   * [1.1 选择排序](algorithm/sort/001-selection-sort.md)
-  * [1.2 冒泡排序](algorithm/sort/1.2-mao-pao-pai-xu.md)
+  * [1.2 冒泡排序](algorithm/sort/002-bubble-sort.md)
 * [2 贪心算法](algorithm/greedy/README.md)
   * [2.1 会议安排](algorithm/greedy/001-meeting-arrangement.md)
   * [2.2 字符数组拼接](algorithm/greedy/002-string-array-splice.md)
