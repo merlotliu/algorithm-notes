@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 动态规划
-date: 2023-12-13 00:14:33
+date: 2022-12-13 00:14:33
 updated: 2023-03-02 00:14:33
 tags: [动态规划]
 categories: [算法&数据结构]
