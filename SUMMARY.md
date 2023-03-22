@@ -29,6 +29,7 @@
     * [动态规划](algorithm/dynamic-programming/README.md)
     * [01背包](algorithm/dynamic-programming/001-01bag.md)
     * [完全背包](algorithm/dynamic-programming/002-completed-bag.md)
+    * [买卖股票问题](algorithm/dynamic-programming/003-sell-stock.md)
 * [5 KMP](algorithm/kmp/README.md)
 * [6 Manacher](algorithm/manacher/README.md)
 * [7 滑动窗口](algorithm/sliding-window/README.md)
